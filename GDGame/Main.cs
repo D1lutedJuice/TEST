@@ -60,7 +60,7 @@ namespace GDGame
             #region Core
 
             // Give the game a name
-            Window.Title = "My Amazing Game";
+            Window.Title = "The Depths of Elune";
 
             // Set resolution and centering (by monitor index)
             InitializeGraphics(ScreenResolution.R_HD_16_9_1280x720);
