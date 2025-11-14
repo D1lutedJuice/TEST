@@ -9,10 +9,10 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <ApplicationIcon>gd_icon.ico</ApplicationIcon>
+    <ApplicationIcon>DOE LOGO.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="gd_icon.ico" />
+    <Content Include="DOE LOGO.ico" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MonoGame.Framework.WindowsDX" Version="3.8.*" />
